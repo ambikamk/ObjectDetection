@@ -1,0 +1,5 @@
+streamlit
+Pillow
+google-generativeai
+gtts
+PyPDF2
